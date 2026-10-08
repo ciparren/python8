@@ -1,0 +1,4 @@
+.env
+matrix_env/
+.venv/
+__pycache__/
